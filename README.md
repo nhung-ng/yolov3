@@ -1,2 +1,1 @@
-# yolov3
-Detection object API
+# Detection object API using yolov3 
